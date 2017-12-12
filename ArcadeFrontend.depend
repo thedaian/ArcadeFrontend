@@ -1,0 +1,570 @@
+# depslib dependency file v1.0
+1512751086 source:c:\development\arcade frontend\core.cpp
+	"core.hpp"
+
+1510155862 c:\development\arcade frontend\core.hpp
+	<SFML/Graphics.hpp>
+	<SFML/System/Clock.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics.hpp
+	<SFML/Window.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/RenderTexture.hpp>
+	<SFML/Graphics/RenderWindow.hpp>
+	<SFML/Graphics/Shader.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<SFML/Graphics/CircleShape.hpp>
+	<SFML/Graphics/RectangleShape.hpp>
+	<SFML/Graphics/ConvexShape.hpp>
+	<SFML/Graphics/Sprite.hpp>
+	<SFML/Graphics/Text.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/Graphics/View.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\window.hpp
+	<SFML/System.hpp>
+	<SFML/Window/Context.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/Event.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Touch.hpp>
+	<SFML/Window/Sensor.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/Window.hpp>
+	<SFML/Window/WindowStyle.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\system.hpp
+	<SFML/Config.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Err.hpp>
+	<SFML/System/InputStream.hpp>
+	<SFML/System/Lock.hpp>
+	<SFML/System/Mutex.hpp>
+	<SFML/System/Sleep.hpp>
+	<SFML/System/String.hpp>
+	<SFML/System/Thread.hpp>
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.hpp>
+	<SFML/System/Utf.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\config.hpp
+	"TargetConditionals.h"
+
+1423966750 c:\sfml-2.2\include\sfml\system\clock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\system\export.hpp
+	<SFML/Config.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\time.hpp
+	<SFML/System/Export.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\system\err.hpp
+	<SFML/System/Export.hpp>
+	<ostream>
+
+1423966751 c:\sfml-2.2\include\sfml\system\inputstream.hpp
+	<SFML/Config.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\lock.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\noncopyable.hpp
+	<SFML/System/Export.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\mutex.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\sleep.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Time.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\system\string.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/Utf.hpp>
+	<locale>
+	<string>
+	<SFML/System/String.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\utf.hpp
+	<SFML/Config.hpp>
+	<algorithm>
+	<locale>
+	<string>
+	<cstdlib>
+	<SFML/System/Utf.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\utf.inl
+
+1423966751 c:\sfml-2.2\include\sfml\system\string.inl
+
+1423966751 c:\sfml-2.2\include\sfml\system\thread.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+	<SFML/System/Thread.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\thread.inl
+
+1423966751 c:\sfml-2.2\include\sfml\system\threadlocal.hpp
+	<SFML/System/Export.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<cstdlib>
+
+1423966751 c:\sfml-2.2\include\sfml\system\threadlocalptr.hpp
+	<SFML/System/ThreadLocal.hpp>
+	<SFML/System/ThreadLocalPtr.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\threadlocalptr.inl
+
+1423966751 c:\sfml-2.2\include\sfml\system\vector2.hpp
+	<SFML/System/Vector2.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\vector2.inl
+
+1423966751 c:\sfml-2.2\include\sfml\system\vector3.hpp
+	<SFML/System/Vector3.inl>
+
+1423966751 c:\sfml-2.2\include\sfml\system\vector3.inl
+
+1423966751 c:\sfml-2.2\include\sfml\window\context.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\export.hpp
+	<SFML/Config.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\glresource.hpp
+	<SFML/Window/Export.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\contextsettings.hpp
+
+1423966751 c:\sfml-2.2\include\sfml\window\event.hpp
+	<SFML/Config.hpp>
+	<SFML/Window/Joystick.hpp>
+	<SFML/Window/Keyboard.hpp>
+	<SFML/Window/Mouse.hpp>
+	<SFML/Window/Sensor.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\joystick.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/String.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\keyboard.hpp
+	<SFML/Window/Export.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\mouse.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\sensor.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector3.hpp>
+	<SFML/System/Time.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\touch.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\videomode.hpp
+	<SFML/Window/Export.hpp>
+	<vector>
+
+1423966751 c:\sfml-2.2\include\sfml\window\window.hpp
+	<SFML/Window/Export.hpp>
+	<SFML/Window/ContextSettings.hpp>
+	<SFML/Window/VideoMode.hpp>
+	<SFML/Window/WindowHandle.hpp>
+	<SFML/Window/WindowStyle.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/Clock.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/String.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\windowhandle.hpp
+	<SFML/Config.hpp>
+
+1423966751 c:\sfml-2.2\include\sfml\window\windowstyle.hpp
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\blendmode.hpp
+	<SFML/Graphics/Export.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\export.hpp
+	<SFML/Config.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\color.hpp
+	<SFML/Graphics/Export.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\font.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Glyph.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/String.hpp>
+	<map>
+	<string>
+	<vector>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\glyph.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\rect.hpp
+	<SFML/System/Vector2.hpp>
+	<algorithm>
+	<SFML/Graphics/Rect.inl>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\rect.inl
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\texture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/GlResource.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\image.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<string>
+	<vector>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\renderstates.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\transform.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\rendertexture.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Texture.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\rendertarget.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/View.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/BlendMode.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/System/NonCopyable.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\view.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\primitivetype.hpp
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\vertex.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\renderwindow.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderTarget.hpp>
+	<SFML/Graphics/Image.hpp>
+	<SFML/Window/Window.hpp>
+	<string>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\shader.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+	<SFML/Graphics/Color.hpp>
+	<SFML/Window/GlResource.hpp>
+	<SFML/System/NonCopyable.hpp>
+	<SFML/System/Vector2.hpp>
+	<SFML/System/Vector3.hpp>
+	<map>
+	<string>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\shape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/Vector2.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\drawable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/RenderStates.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\transformable.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Transform.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\vertexarray.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/PrimitiveType.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<vector>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\circleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\rectangleshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\convexshape.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Shape.hpp>
+	<vector>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\sprite.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Vertex.hpp>
+	<SFML/Graphics/Rect.hpp>
+
+1423966750 c:\sfml-2.2\include\sfml\graphics\text.hpp
+	<SFML/Graphics/Export.hpp>
+	<SFML/Graphics/Drawable.hpp>
+	<SFML/Graphics/Transformable.hpp>
+	<SFML/Graphics/Font.hpp>
+	<SFML/Graphics/Rect.hpp>
+	<SFML/Graphics/VertexArray.hpp>
+	<SFML/System/String.hpp>
+	<string>
+	<vector>
+
+1512751424 source:c:\development\arcade frontend\data.cpp
+	"data.hpp"
+	"json-c/json.h"
+	<cstring>
+	<windows.h>
+	<sstream>
+
+1512751417 c:\development\arcade frontend\data.hpp
+	<SFML/Graphics.hpp>
+	<vector>
+
+1397173268 c:\development\arcade frontend\json-c\json.h
+	"bits.h"
+	"debug.h"
+	"linkhash.h"
+	"arraylist.h"
+	"json_util.h"
+	"json_object.h"
+	"json_tokener.h"
+	"json_object_iterator.h"
+	"json_c_version.h"
+
+1397173268 c:\development\arcade frontend\json-c\bits.h
+
+1397173268 c:\development\arcade frontend\json-c\debug.h
+	<stdlib.h>
+
+1397173268 c:\development\arcade frontend\json-c\linkhash.h
+	"json_object.h"
+
+1397173268 c:\development\arcade frontend\json-c\json_object.h
+	"json_inttypes.h"
+
+1430067487 c:\development\arcade frontend\json-c\json_inttypes.h
+	"json_config.h"
+	<inttypes.h>
+
+1430067499 c:\development\arcade frontend\json-c\json_config.h
+
+1397173268 c:\development\arcade frontend\json-c\arraylist.h
+
+1397173268 c:\development\arcade frontend\json-c\json_util.h
+	"json_object.h"
+
+1397173268 c:\development\arcade frontend\json-c\json_tokener.h
+	<stddef.h>
+	"json_object.h"
+
+1397173268 c:\development\arcade frontend\json-c\json_object_iterator.h
+	<stddef.h>
+
+1397174959 c:\development\arcade frontend\json-c\json_c_version.h
+
+1512752121 source:c:\development\arcade frontend\game_list_state.cpp
+	"game_list_state.hpp"
+	"data.hpp"
+	<sstream>
+	<windows.h>
+	<locale>
+	<windows.h>
+
+1513049880 c:\development\arcade frontend\game_list_state.hpp
+	"core.hpp"
+	"data.hpp"
+
+1512750474 source:c:\development\arcade frontend\main.cpp
+	"game_list_state.hpp"
+	"data.hpp"
+	<cstring>
+	<ctime>
+
+1397173268 source:c:\development\arcade frontend\json-c\arraylist.c
+	"config.h"
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	"bits.h"
+	"arraylist.h"
+
+1430068537 c:\development\arcade frontend\json-c\config.h
+
+1397173268 source:c:\development\arcade frontend\json-c\debug.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	<syslog.h>
+	<unistd.h>
+	<sys/param.h>
+	"debug.h"
+
+1397173268 source:c:\development\arcade frontend\json-c\json_c_version.c
+	"config.h"
+	"json_c_version.h"
+
+1466193735 source:c:\development\arcade frontend\json-c\json_object.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<string.h>
+	<math.h>
+	<errno.h>
+	"debug.h"
+	"printbuf.h"
+	"linkhash.h"
+	"arraylist.h"
+	"json_inttypes.h"
+	"json_object.h"
+	"json_object_private.h"
+	"json_util.h"
+	"math_compat.h"
+
+1397173268 c:\development\arcade frontend\json-c\printbuf.h
+
+1397173268 c:\development\arcade frontend\json-c\json_object_private.h
+
+1397173268 c:\development\arcade frontend\json-c\math_compat.h
+	<float.h>
+	<float.h>
+
+1397173268 source:c:\development\arcade frontend\json-c\json_object_iterator.c
+	<stddef.h>
+	"json.h"
+	"json_object_private.h"
+	"json_object_iterator.h"
+
+1397173268 source:c:\development\arcade frontend\json-c\json_tokener.c
+	"config.h"
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<ctype.h>
+	<string.h>
+	<limits.h>
+	"bits.h"
+	"debug.h"
+	"printbuf.h"
+	"arraylist.h"
+	"json_inttypes.h"
+	"json_object.h"
+	"json_tokener.h"
+	"json_util.h"
+	<locale.h>
+
+1397173268 source:c:\development\arcade frontend\json-c\json_util.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<limits.h>
+	<string.h>
+	<errno.h>
+	<ctype.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<fcntl.h>
+	<unistd.h>
+	<windows.h>
+	<io.h>
+	"bits.h"
+	"debug.h"
+	"printbuf.h"
+	"json_inttypes.h"
+	"json_object.h"
+	"json_tokener.h"
+	"json_util.h"
+
+1397173268 source:c:\development\arcade frontend\json-c\libjson.c
+	<sys/cdefs.h>
+	"json_object.h"
+
+1430068566 source:c:\development\arcade frontend\json-c\linkhash.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<limits.h>
+	<endian.h>
+	"random_seed.h"
+	"linkhash.h"
+
+1397173268 c:\development\arcade frontend\json-c\random_seed.h
+
+1430068494 source:c:\development\arcade frontend\json-c\printbuf.c
+	"config.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+	"bits.h"
+	"debug.h"
+	"printbuf.h"
+
+1430068169 source:c:\development\arcade frontend\json-c\random_seed.c
+	<stdio.h>
+	"config.h"
+	<string.h>
+	<fcntl.h>
+	<unistd.h>
+	<errno.h>
+	<stdlib.h>
+	<sys/stat.h>
+	<windows.h>
+	<time.h>
+

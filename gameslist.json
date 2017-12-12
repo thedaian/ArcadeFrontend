@@ -1,0 +1,46 @@
+[
+	{
+		"name": "Isotower",
+		"description": "Isotower is a skyscraper management tycoon game. You're given a plot of land in a city, and it's your job to create a building full of offices, restaurants, shops, apartments and hotel rooms.",
+		"directory": "C:\\development\\isotower",
+		"exe": "ExpoTower.exe",
+		"icon": "game_data/Isotower.png",
+		"playtime": 15,
+		"arguments": "-arcade 15",
+		"screenshots": [
+			"screenshots/Isotower_1.png",
+			"screenshots/Isotower_2.png",
+			"screenshots/Isotower_3.png",
+			"screenshots/Isotower_4.png",
+			"screenshots/Isotower_5.png",
+			"screenshots/Isotower_6.png"
+		]
+	},
+	{
+		"name": "Stonicorn",
+		"description": "Stonicorn is a 2d Metroidvania about a unicorn that has been turned to stone and is now searching for the cure. A 2D puzzle platformer about overcoming challenges by utilizing your abilities.",
+		"directory": "E:\\Small Games\\Stonicorn_0_193\\",
+		"exe": "Stonicorn_0_193.exe",
+		"icon": "game_data/stoned-game.jpg",
+		"screenshots": [
+			"screenshots/stonicorn_1.png",
+			"screenshots/stonicorn_2.png",
+			"screenshots/stonicorn_3.png"
+		]
+	},
+	{
+		"name": "No Mercy",
+		"description": "Sacrifice is Necessary, Mercy is Not.
+
+With more hacking and slashing than you previously thought possible, No Mercy is a side-scrolling brawler with multiplayer set for release on Steam in March 2018.
+
+Follow our four unsuspecting heroes (and Kevin) as they fight being swallowed by the chaos of the Corruption. Use their different weapons and powers to crush anything that stands in your way, and explore the surrounding levels for hidden secrets.
+
+Bursting with vibrant art and interlocking stories, No Mercy draws both you and the characters deeper into the heart of a forest under attack. Your only hope lies in each other, but everyone has something valuable to lose. In a story of love, trust, and probably a few too many puns, you must work together to save the forest, your friends, or at the very least, your life.",
+		"directory": "C:\\development\\isotower",
+		"exe": "DevTower.exe",
+		"icon": "game_data/Multivarious.png",
+		"screenshots": [
+		]
+	}
+]
