@@ -48,7 +48,7 @@ Example of game definition in the JSON file
 
 ## Authors
 
-* **Todd Barchok** - *Initial work* - [thedaian](https://github.com/thedaian)
+* [Todd Barchok](http://barchok.com/) - *Initial work* - [thedaian](https://github.com/thedaian)
 
 ## License
 
